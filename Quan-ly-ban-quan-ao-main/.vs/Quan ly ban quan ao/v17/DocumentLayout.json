@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\CLothes_Asm1-main\\CLothes_Asm1-main\\Quan-ly-ban-quan-ao-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|C:\\Users\\ADMIN\\source\\repos\\CLothes_Asm1-main\\CLothes_Asm1-main\\Quan-ly-ban-quan-ao-main\\quan ly ban quan ao\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|c:\\users\\admin\\source\\repos\\clothes_asm1-main\\clothes_asm1-main\\quan-ly-ban-quan-ao-main\\quan ly ban quan ao\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|solutionrelative:quan ly ban quan ao\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|solutionrelative:quan ly ban quan ao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|c:\\users\\admin\\source\\repos\\clothes_asm1-main\\clothes_asm1-main\\quan-ly-ban-quan-ao-main\\quan ly ban quan ao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|C:\\Users\\ADMIN\\source\\repos\\CLothes_Asm1-main\\CLothes_Asm1-main\\Quan-ly-ban-quan-ao-main\\quan ly ban quan ao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{67744873-27BB-4C96-B818-B911493AD054}|Quan ly ban quan ao\\Quan ly ban quan ao.csproj|solutionrelative:quan ly ban quan ao\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -94,8 +94,7 @@
               "RelativeToolTip": "Quan ly ban quan ao\\Form1.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAwwCoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T04:23:31.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T04:23:31.457Z"
             },
             {
               "$type": "Document",
@@ -163,7 +162,7 @@
               "RelativeDocumentMoniker": "Quan ly ban quan ao\\Form4.cs",
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CLothes_Asm1-main\\CLothes_Asm1-main\\Quan-ly-ban-quan-ao-main\\Quan ly ban quan ao\\Form4.cs",
               "RelativeToolTip": "Quan ly ban quan ao\\Form4.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAAwKIAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAAwKkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T07:54:55.539Z",
               "EditorCaption": ""
@@ -235,8 +234,7 @@
               "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\CLothes_Asm1-main\\CLothes_Asm1-main\\Quan-ly-ban-quan-ao-main\\Quan ly ban quan ao\\Form1.cs [Design]",
               "RelativeToolTip": "Quan ly ban quan ao\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T10:33:12.358Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-10-13T10:33:12.358Z"
             },
             {
               "$type": "Document",

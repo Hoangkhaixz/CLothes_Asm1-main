@@ -156,7 +156,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="Report1.rdlc" />
     <None Include="ASM1DataSet.xsc">
       <DependentUpon>ASM1DataSet.xsd</DependentUpon>
     </None>
